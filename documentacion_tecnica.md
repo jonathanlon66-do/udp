@@ -201,7 +201,7 @@ Los resultados típicos observados fueron:
 
 | Métrica | Objetivo | Resultado obtenido |
 |---------|----------|--------------------|
-| Latencia máxima | < 1 ms | ✅ Alcanzado desde iteración 2 |
+| Latencia máxima | < 1 ms | ✅ Alcanzado desde iteración 1 (Con riesgo de subir) |
 | Latencia mínima | Lo más baja posible | ~0.05 ms – 0.15 ms en loopback |
 | Protocolo | Sin restricción | UDP (Capa 4) |
 
